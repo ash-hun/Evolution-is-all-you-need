@@ -12,6 +12,9 @@ I have made many plans, but this Github Repo contains only `Phase 01`. Phase 01 
 ```bash
 $ git clone https://github.com/ash-hun/Evolution-is-all-you-need.git
 $ cd Evolution-is-all-you-need/
+$ conda create -n __your-env__ python==3.10.12
+$ conda activate __your-env__
+$ pip install -r requirements.txt
 ```
 Enjoy my research 👋
 
