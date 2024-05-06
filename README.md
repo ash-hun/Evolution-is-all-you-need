@@ -8,6 +8,14 @@ Hello, I'm Ash😊 Having worked with `GenAI` in the field, I've gained many ins
 I have made many plans, but this Github Repo contains only `Phase 01`. Phase 01 will be based on Langchain, Langsmith, and Langgraph, which are the easiest ways to create LLM applications. I plan to record my research on mastering these tools freely and further record various applications.
 
 
+## **Ⅲ. How to use 'Evolution is all you need'?**
+```bash
+$ git clone https://github.com/ash-hun/Evolution-is-all-you-need.git
+$ cd Evolution-is-all-you-need/
+```
+Enjoy my research 👋
+
+---
 
     @misc{Evolution is all you need,
         author = {ash-hun},
