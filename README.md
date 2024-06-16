@@ -1,5 +1,8 @@
 # Evolution is all you need
 
+![image](https://github.com/ash-hun/Evolution-is-all-you-need/assets/32566767/664d37c1-9a60-4eb3-b585-7441a01f8a84)
+
+
 ## **Ⅰ. Why 'Evolution is all you need'?**
 Hello, I'm Ash😊 Having worked with `GenAI` in the field, I've gained many insights. Compared to conventional ML/DL systems, GenAI has proven to be the most effective in producing high-quality results. However, I believe there is still much to be researched regarding its applications. As the times change, the development of AI is progressing rapidly, and soon many people will become more proficient in handling GenAI. **I plan to conduct personal research to stay 1~2 steps ahead of others when that time comes.**
 
