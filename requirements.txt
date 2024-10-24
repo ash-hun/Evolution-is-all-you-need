@@ -4,3 +4,4 @@ streamlit==1.33.0
 gradio==4.29.0
 python-dotenv==1.0.1
 chroma==0.2.0
+psycopg[binary]
